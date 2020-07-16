@@ -1,92 +1,100 @@
-[
-	{
-		"path": "Motor Bike.mp3"
-	},
-	{
-		"path": "Bean Fart.mp3"
-	},
-	{
-		"path": "Drive By Farting.mp3"
-	},
-	{
-		"path": "Echo Fart.mp3"
-	},
-	{
-		"path": "Fart Noises.mp3"
-	},
-	{
-		"path": "Fart Short.mp3"
-	},
-	{
-		"path": "Fart Strain.mp3"
-	},
-	{
-		"path": "Fart-Sound.mp3"
-	},
-	{
-		"path": "Funny Fart Trail.mp3"
-	},
-	{
-		"path": "Girl Fart.mp3"
-	},
-	{
-		"path": "Girls Farting.mp3"
-	},
-	{
-		"path": "Guy Farts While Watching Tv.mp3"
-	},
-	{
-		"path": "King Farthur.mp3"
-	},
-	{
-		"path": "Lawn Mower Fart.mp3"
-	},
-	{
-		"path": "Long Fart.mp3"
-	},
-	{
-		"path": "Bronx Cheer.mp3"
-	},
-	{
-		"path": "Oopsy Daisy Fart.mp3"
-	},
-	{
-		"path": "PerfectFart.mp3"
-	},
-	{
-		"path": "Person Farting.mp3"
-	},
-	{
-		"path": "Quick An Small Fart.mp3"
-	},
-	{
-		"path": "Quick Fart.mp3"
-	},
-	{
-		"path": "Real Messy Fart.mp3"
-	},
-	{
-		"path": "Rigid Fart.mp3"
-	},
-	{
-		"path": "Sharp Fart.mp3"
-	},
-	{
-		"path": "Squish Fart.mp3"
-	},
-	{
-		"path": "String Cheese Fart.mp3"
-	},
-	{
-		"path": "Trumpet Fart.mp3"
-	},
-	{
-		"path": "Uh Oh Fart.mp3"
-	},
-	{
-		"path": "Wet Fart Squish.mp3"
-	},
-	{
-		"path": "WetFart.mp3"
-	}
-]
+{
+  "sounds": [
+    {
+      "path": "Motor Bike.mp3"
+    },
+    {
+      "path": "Bean Fart.mp3"
+    },
+    {
+      "path": "Drive By Farting.mp3"
+    },
+    {
+      "path": "Echo Fart.mp3"
+    },
+    {
+      "path": "Fart Noises.mp3"
+    },
+    {
+      "path": "Fart Short.mp3"
+    },
+    {
+      "path": "Fart Strain.mp3"
+    },
+    {
+      "path": "Fart-Sound.mp3"
+    },
+    {
+      "path": "Funny Fart Trail.mp3"
+    },
+    {
+      "path": "Girl Fart.mp3"
+    },
+    {
+      "path": "Girls Farting.mp3"
+    },
+    {
+      "path": "Guy Farts While Watching Tv.mp3"
+    },
+    {
+      "path": "King Farthur.mp3"
+    },
+    {
+      "path": "Lawn Mower Fart.mp3"
+    },
+    {
+      "path": "Long Fart.mp3"
+    },
+    {
+      "path": "Bronx Cheer.mp3"
+    },
+    {
+      "path": "Oopsy Daisy Fart.mp3"
+    },
+    {
+      "path": "PerfectFart.mp3"
+    },
+    {
+      "path": "Person Farting.mp3"
+    },
+    {
+      "path": "Quick An Small Fart.mp3"
+    },
+    {
+      "path": "Quick Fart.mp3"
+    },
+    {
+      "path": "Real Messy Fart.mp3"
+    },
+    {
+      "path": "Rigid Fart.mp3"
+    },
+    {
+      "path": "Sharp Fart.mp3"
+    },
+    {
+      "path": "Squish Fart.mp3"
+    },
+    {
+      "path": "String Cheese Fart.mp3"
+    },
+    {
+      "path": "Trumpet Fart.mp3"
+    },
+    {
+      "path": "Uh Oh Fart.mp3"
+    },
+    {
+      "path": "Wet Fart Squish.mp3"
+    },
+    {
+      "path": "WetFart.mp3"
+    }
+  ],
+  "products": [
+    {
+      "path": "fsdf",
+      "referenceName": "dfgdg"
+    }
+  ]
+}
