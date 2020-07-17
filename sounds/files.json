@@ -93,8 +93,32 @@
   ],
   "products": [
     {
-      "path": "WetFart.mp3",
-      "referenceName": "opop"
-    }
+      "path": "products/Bubble Fart.mp3",
+      "referenceName": "001"
+    },
+    {
+      "path": "products/High pitched Fart.mp3",
+      "referenceName": "002"
+    },
+    {
+      "path": "products/Long and Deep Fart.mp3",
+      "referenceName": "003"
+    },
+    {
+      "path": "products/Low Rumbling Fart.mp3",
+      "referenceName": "004"
+    },
+    {
+      "path": "products/Nasty Fart.mp3",
+      "referenceName": "005"
+    },
+    {
+      "path": "products/Squeaky Fat Farts.mp3",
+      "referenceName": "006"
+    },
+    {
+      "path": "products/Squeezed Wet Fart.mp3",
+      "referenceName": "007"
+    } 
   ]
 }
